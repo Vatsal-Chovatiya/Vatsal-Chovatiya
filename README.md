@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vatsal Chovatiya</h1>
 <h3 align="center">Pursuing bachelor's degree in Computer Science from University of Saskatchewan and learning MERN stack development.</h3>
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **Docker**
 
 - 📫 How to reach me **vatsalchovatiya55@gmail.com**
 
